@@ -1,0 +1,4 @@
+module CSSHKit [system] {
+    header "shim.h"
+    link "libssh"
+}
