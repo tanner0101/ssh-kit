@@ -1,3 +1,3 @@
 # SSHKit
 
-A description of this package.
+Swift wrapper around `libssh`.
